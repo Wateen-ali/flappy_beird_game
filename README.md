@@ -69,11 +69,11 @@ Flappy Fairy features four unique characters, each designed to fit the magical f
 - Children attracted to fantasy themes and easy gameplay  
 - Suitable for all genders
 
-## 🔮 Future Enhancements
+## Future Enhancements
 - Add animations and sound effects  
 - Implement levels for each character  
 - Introduce more challenges and obstacles
 
-## 👤 Developer
+## Developer
 - Wateen Alrumayh 
 
